@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\03-app-dotnet\CompanyFramework\CompanyFramework.csproj" />
+    <ProjectReference Include="..\03-app-dotnet\CompanyFramework.csproj" />
   </ItemGroup>
 
 </Project>
