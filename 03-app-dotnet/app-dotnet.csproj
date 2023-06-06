@@ -6,5 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>app_dotnet</RootNamespace>
   </PropertyGroup>
-
+  <ItemGroup>
+    <PackageReference Include="SonarScanner.MSBuild" Version="5.13.0" />
+  </ItemGroup>
 </Project>
